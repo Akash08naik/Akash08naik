@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me https://www.linkedin.com/in/akashnaik-meghavath-a817651b6
+- 📫 How to reach me www.linkedin.com/in/akash08naik
 
 <!---
 Akash08naik/Akash08naik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
