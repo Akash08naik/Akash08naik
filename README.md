@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Akash08naik
-- 👀 I’m interested in sports
-- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me www.linkedin.com/in/akash08naik
 
